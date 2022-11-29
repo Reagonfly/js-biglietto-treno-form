@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+
+.row {
+    overflow: hidden
+}
+
+.my-btn{
+    font-size: 21px;
+    background-color: aqua;
+    border-radius: 25px;
+    padding: 15px 25px;
+}
+
+.my-btn-refr{
+    border: none;
+    font-size: 21px;
+    background-color: rgb(255, 123, 0);
+    border-radius: 25px;
+    padding: 15px 25px;
+}
+
+.my-btn:hover{
+    background-color: azure;
+    color: crimson;
+}
+
+.my-btn-refr:hover{
+    background-color: rgba(248, 7, 7, 0.849);
+    color: #fff;
+}
+
+.card-text{
+    font-size: 21px;
+}
+
+h1{
+    margin: 2rem 1.5rem;
+}
+
+.bitalo{
+    color: crimson;
+}
+
+.professinal-margin-modyfier{
+    margin: 0 auto;
+}
